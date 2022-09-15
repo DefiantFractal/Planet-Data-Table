@@ -1,4 +1,4 @@
-# Planet-Data-Table
+# planet-data-table
 Structuring planet data assessment from HTML - Structuring the web guide
 
 Assessment Link/Info:
